@@ -1,0 +1,14 @@
+Completed Task 4 - CSV to Dashboard as part of the Synent Technologies Data Science Internship.
+
+Built an interactive Netflix Dashboard using Streamlit and Python.
+
+Key Features:
+- Upload CSV Dataset
+- Interactive Filters
+- Dynamic Charts
+- KPI Metrics
+
+Tools Used:
+Python, Streamlit, Pandas, Matplotlib
+
+#DataScience #Python #Streamlit #Dashboard #Internship
